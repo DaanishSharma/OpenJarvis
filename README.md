@@ -8,6 +8,6 @@
 ## Hardware Open Source
 - PCB
 ## Sotware Open Source
--LLAMA
--Wav2Text
--HomeAssistant
+- LLAMA
+- Wav2Text
+- HomeAssistant
