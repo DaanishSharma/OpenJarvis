@@ -1,9 +1,9 @@
 # OpenJarvis
--- Open Source AI Voice Assist
+## Open Source AI Voice Assist
 - Play Music (Apple/spotify)
 - IOT (homeassistant)
 - Pick Up Calls and Do calls
 - Talk like human assistant
 
--- Hardware Open Source
--- Sotware Open Source
+## Hardware Open Source - PCB
+## Sotware Open Source
